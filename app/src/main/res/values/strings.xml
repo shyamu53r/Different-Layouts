@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Different Layouts</string>
+    <string name="menu">Menu</string>
+    <string name="constraint_layout">Constraint Layout</string>
+    <string name="linear_layout">linear Layout</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="grid_view">Grid View</string>
+    <string name="card_view">Card View</string>
+    <string name="linearlayout_with_weight">Linear Layout with weight</string>
+    <string name="linearlayout_without_weight">Linear Layout without weight</string>
+    <string name="b1">button 1</string>
+    <string name="b2">button 2</string>
+    <string name="b3">button 3</string>
+    <string name="b4">button 4</string>
+    <string name="b5">button 5</string>
+    <string name="b6">button 6</string>
+    <string name="b7">button 7</string>
+    <string name="b8">button 8</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_account">Create Account</string>
+</resources>
